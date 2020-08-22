@@ -1,4 +1,4 @@
-<img align="center" alt="header" src="https://drive.google.com/file/d/12YHychFz5TTq2iuD6TnAoMCXKv0lONLf/view?usp=sharing" />
+<img align="center" alt="header" src="https://github.com/matheuxmuller/matheuxmuller/blob/master/img/headerlinkedin.png"/>
 
 <h1> Olarrr! Eu sou o Matheux :yellow_heart: </h1>
 
