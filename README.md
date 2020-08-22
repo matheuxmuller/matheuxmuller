@@ -1,5 +1,3 @@
-<img align="center" alt="header" src="https://github.com/matheuxmuller/matheuxmuller/blob/master/img/headerlinkedin.png"/>
-
 <h1> Olarrr! Eu sou o Matheux :yellow_heart: </h1>
 
 <p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
@@ -13,15 +11,16 @@
 
 
 
-<h3>🛠 Como fullstack, estou aprendendo: </h3>
+<h3>🛠 Como desenvolvedor web fullstack, estou aprendendo: </h3>
 
 - :clipboard: Metodologias ágeis SCRUM/Kanban
 - :mag_right: Versionamento de código aqui pelo Git
 - :floppy_disk: Banco de dados relacionais com MySQL
-- :computer: Back-end com Java, utilizando Spring Boot para construir APIs
+- :computer: Back-end com Java, utilizando Spring Boot para construir APIs (em breve com C, C++ e C#)
 - :globe_with_meridians: Front-end com JavaScript, HTML, CSS e os frameworks Bootstrap e Angular
 - :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
 - :whale: Noções de DevOps no processo de deploy em containers com Docker
+- :iphone: Tenho interesse em aprender a programar para Android (Kotlin) e iOS (Swift)
 
 <h3>:mailbox_with_mail: Você pode me encontrar aqui: </h3>
 
