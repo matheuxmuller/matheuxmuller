@@ -32,4 +32,5 @@
 
 <br>
 
-[![Matheus Müller's github stats](https://github-readme-stats.vercel.app/api?username=matheuxmuller&show_icons=true)](https://github.com/matheuxmuller)
+![Matheus Müller's github stats](https://github-readme-stats.vercel.app/api?username=matheuxmuller&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxmuller&layout=compact&theme=buefy)
