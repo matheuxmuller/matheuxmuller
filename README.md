@@ -2,7 +2,7 @@
 
 <p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
 
-<h3> 👨🏻‍💻 Eis um pouco sobre mim </h3>
+<h3> 👨🏻‍💻 Curiosidades sobre mim: </h3>
 
 - :dart: Sou apaixonado por UX/UI, design gráfico e por cultura pop!
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
@@ -18,9 +18,7 @@
 - :globe_with_meridians: Front-end com JavaScript, HTML, CSS e os frameworks Bootstrap e Angular
 - :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
 
-<br>
-
-#### Você pode me encontrar aqui:
+<h3> Você pode me encontrar aqui: </h3>
 
 <a href="https://www.linkedin.com/in/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/matheuxmuller" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
