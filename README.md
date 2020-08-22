@@ -14,7 +14,7 @@
 - :dart: Sou apaixonado por UX/UI, design gráfico e cultura pop!
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
-- :necktie: Antes da transição para a tecnologia, trabalhei com turismo/aviação e projetos socioculturais
+- :necktie: Antes da transição para a tecnologia, trabalhei com turismo/aviação e em projetos socioculturais
 - :books: Estou cursando bacharelado em Publicidade e Propaganda, mas já fiz três anos de Licenciatura em Pedagogia
 
 <h3>🛠 Estou aprendendo: </h3>
