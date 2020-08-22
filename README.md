@@ -1,10 +1,10 @@
 <h2> Olarrr! Eu sou o Matheux :yellow_heart: </h2>
 
-<p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências para todes! </p>
+<p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
 
 <h3> 👨🏻‍💻 Eis um pouco sobre mim </h3>
 
-- :dart: Sou apaixonado por UX, design gráfico e por cultura pop!
+- :dart: Sou apaixonado por UX/UI, design gráfico e por cultura pop!
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
 - :books: Estou cursando Publicidade e Propaganda, mas já fiz três anos de Pedagogia
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
