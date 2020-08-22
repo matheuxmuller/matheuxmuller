@@ -14,7 +14,7 @@
 - :dart: Sou apaixonado por UX/UI, design gráfico e cultura pop!
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
-- :books: Estou cursando bacharelado em Publicidade e Propaganda e técnico em Informática para Internet
+- :books: Estou cursando bacharelado em Publicidade e Propaganda e 
 - :memo: Antes da transição para a tecnologia, fiz três anos de Licenciatura em Pedagogia e atuei com projetos socioculturais
 
 <h3>🛠 Estou aprendendo: </h3>
@@ -26,8 +26,11 @@
 - :globe_with_meridians: Front-end com JavaScript, HTML, CSS e os frameworks Bootstrap e Angular
 - :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
 - :whale: Noções de DevOps no processo de deploy em containers com Docker
-- :iphone: Tenho interesse em aprender a programar para Android (Kotlin) e iOS (Swift)
 
+<h3:iphone: Planos futuros </h3>
+
+<p> Como um iniciante na área, gosto muito de descobrir como melhorar o meu dia-a-dia programando, desde IDEs e editores de texto a novas linguagens. Meu principal interesse na área é aprender sobre desenvolvimento de aplicativos (tanto para Android, quanto para iOS) e, pensando nisso, estou cursando o técnico em Informática para Internet na ETEC SEBRAE, que tem foco em design e desenvolvimento de aplicações web e mobile, trabalhando com as linguagens C, C#, C++, Java e JavaScript, além de HTML, CSS e banco de dados SQL/NoSQL. <p>
+ 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxmuller&layout=compact&theme=buefy)
