@@ -1,3 +1,5 @@
+<img align="center" alt="header" src="https://drive.google.com/file/d/12YHychFz5TTq2iuD6TnAoMCXKv0lONLf/view?usp=sharing" />
+
 <h1> Olarrr! Eu sou o Matheux :yellow_heart: </h1>
 
 <p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
@@ -10,13 +12,16 @@
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
 
 
+
 <h3>🛠 Como fullstack, estou aprendendo: </h3>
 
+- :clipboard: Metodologias ágeis SCRUM/Kanban
 - :mag_right: Versionamento de código aqui pelo Git
 - :floppy_disk: Banco de dados relacionais com MySQL
 - :computer: Back-end com Java, utilizando Spring Boot para construir APIs
 - :globe_with_meridians: Front-end com JavaScript, HTML, CSS e os frameworks Bootstrap e Angular
 - :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
+- :whale: Noções de DevOps no processo de deploy em containers com Docker
 
 <h3>:mailbox_with_mail: Você pode me encontrar aqui: </h3>
 
