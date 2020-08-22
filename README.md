@@ -6,17 +6,15 @@
 
 - :dart: Sou apaixonado por UX/UI, design gráfico e por cultura pop!
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
-- :books: Estou cursando Publicidade e Propaganda, mas já fiz três anos de Pedagogia
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
+- :books: Estou cursando bacharelado em Publicidade e Propaganda e técnico em Informática para Internet, mas já fiz três anos de Licenciatura em Pedagogia
 
-
-
-<h3>🛠 Como desenvolvedor web fullstack, estou aprendendo: </h3>
+<h3>🛠 Estou aprendendo: </h3>
 
 - :clipboard: Metodologias ágeis SCRUM/Kanban
 - :mag_right: Versionamento de código aqui pelo Git
 - :floppy_disk: Banco de dados relacionais com MySQL
-- :computer: Back-end com Java, utilizando Spring Boot para construir APIs (em breve com C, C++ e C#)
+- :computer: Back-end com Java, utilizando Spring Boot para construir APIs
 - :globe_with_meridians: Front-end com JavaScript, HTML, CSS e os frameworks Bootstrap e Angular
 - :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
 - :whale: Noções de DevOps no processo de deploy em containers com Docker
