@@ -4,7 +4,6 @@
 <a href="https://twitter.com/matheuxmuller" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"> </a>
 <a href="https://www.instagram.com/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
-<a href="mailto:pushpneetsingh99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuxmuller@gmail.com" alt="Gmail"></a>
 
 
 <p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
