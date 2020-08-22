@@ -8,7 +8,6 @@
 
 
 <p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
-
 <br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
