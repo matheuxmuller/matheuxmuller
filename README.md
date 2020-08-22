@@ -1,4 +1,4 @@
-<h1> Olarrr! Pode me chamar de Matheux :yellow_heart: </h1>
+<h2> Olarrr! Pode me chamar de Matheux :yellow_heart: </h2>
 
 <a href="https://www.linkedin.com/in/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 <a href="https://twitter.com/matheuxmuller" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"> </a>
@@ -32,5 +32,4 @@
 
 <br>
 
-![Matheus Müller's github stats](https://github-readme-stats.vercel.app/api?username=matheuxmuller&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuxmuller&layout=compact&theme=buefy)
