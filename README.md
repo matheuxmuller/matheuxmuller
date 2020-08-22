@@ -29,7 +29,7 @@
 
 <h3>:iphone: Planos futuros </h3>
 
-<p> Como um iniciante na área, gosto muito de descobrir como melhorar o meu dia-a-dia programando, desde IDEs e editores de texto a novas linguagens. Meu principal interesse na área é aprender sobre <b>desenvolvimento de aplicativos</b> (tanto para Android, quanto para iOS) e, pensando nisso, estou cursando técnico em <b> Informática para Internet na ETEC SEBRAE </b>, que tem este foco e trabalha com as linguagens C, C#, C++, Java e JavaScript, além de HTML, CSS e banco de dados SQL/NoSQL. <p>
+<p> Como um iniciante na área, gosto muito de descobrir como melhorar o meu dia-a-dia programando, desde IDEs e editores de texto a novas linguagens. Meu principal interesse na área é aprender sobre <b>desenvolvimento de aplicativos</b> (tanto para Android, quanto iOS) e, pensando nisso, estou cursando técnico em <b> Informática para Internet na ETEC SEBRAE </b>, que tem este foco e trabalha com as linguagens C, C#, C++, Java e JavaScript, além de HTML, CSS e banco de dados SQL/NoSQL. <p>
  
 <br>
 
