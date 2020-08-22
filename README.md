@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
 
-<p> Comunicativo e curioso que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
+<p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
 <br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
