@@ -9,7 +9,6 @@
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
 - :books: Estou cursando bacharelado em Publicidade e Propaganda e técnico em Informática para Internet, mas já fiz três anos de Licenciatura em Pedagogia
 
-<br>
 
 <h3>🛠 Estou aprendendo: </h3>
 
@@ -22,7 +21,6 @@
 - :whale: Noções de DevOps no processo de deploy em containers com Docker
 - :iphone: Tenho interesse em aprender a programar para Android (Kotlin) e iOS (Swift)
 
-<br>
 
 <h3>:mailbox_with_mail: Você pode me encontrar aqui: </h3>
 
@@ -31,6 +29,5 @@
 <a href="https://www.instagram.com/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:pushpneetsingh99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuxmuller@gmail.com" alt="Gmail"></a>
 
-<br>
 
 [![Matheus Müller's github stats](https://github-readme-stats.vercel.app/api?username=matheuxmuller&show_icons=true)](https://github.com/matheuxmuller)
