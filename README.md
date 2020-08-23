@@ -11,7 +11,7 @@
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
 
-- :dart: Sou apaixonado por UX/UI, design gráfico e cultura pop!
+- :dart: Sou apaixonado por UX (research & design) e cultura pop!
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
 - :necktie: Antes da transição para a área de tecnologia, trabalhei com turismo/aviação e em projetos socioculturais
