@@ -13,7 +13,7 @@
 
 - :dart: Sou apaixonado por UX (research & design) e cultura pop!
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
-- :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://github.com/ari-hacks).
+- :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://brazil.generation.org/).
 - :necktie: Antes da transição para a área de tecnologia, trabalhei com turismo/aviação e em projetos socioculturais
 - :books: Estou cursando bacharelado em Publicidade e Propaganda, mas já fiz três anos de Licenciatura em Pedagogia
 
@@ -29,7 +29,7 @@
 
 <h3>:iphone: Planos futuros </h3>
 
-<p> Como um iniciante na área, gosto muito de descobrir como melhorar o meu dia-a-dia programando, desde IDEs e editores de texto a novas linguagens. Meu principal interesse na área é atuar com <b>desenvolvimento de aplicativos para smartphones</b> (tanto Android, quanto iOS) e, pensando nisso, estou cursando técnico em <b> Informática para Internet na ETEC SEBRAE </b>, onde aprenderei as linguagens C, C# e C++ e um pouco mais sobre Java, JavaScript, HTML, CSS e banco de dados SQL/NoSQL. <p>
+<p> Como um iniciante na área, gosto muito de descobrir como melhorar o meu dia-a-dia programando, desde IDEs e editores de texto a novas linguagens. Meu principal interesse na área é atuar com <b>desenvolvimento de aplicativos para smartphones</b>, tanto Android, quanto iOS, e pretendo direcionar meus estudos para isso. Como um complemento, estou cursando técnico em <b> Informática para Internet na ETEC SEBRAE </b>, onde aprenderei as linguagens C, C# e C++ e um pouco mais sobre Java, JavaScript, HTML, CSS e banco de dados SQL/NoSQL. <p>
  
 <br>
 
