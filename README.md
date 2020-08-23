@@ -30,7 +30,7 @@
 
 <h3>:iphone: Planos futuros </h3>
 
-<p> Como um iniciante na área, gosto muito de descobrir coisas novas ou formas diferentes de aplicar a programação, sejam elas novas linguagens, frameworks, IDEs ou editores de texto. Meu principal interesse na área é atuar com <b>desenvolvimento de aplicativos para smartphones</b>, tanto Android, quanto iOS, e pretendo direcionar meus estudos para isso. Como um complemento, estou cursando técnico em <b> Informática para Internet na ETEC SEBRAE </b>, onde aprenderei as linguagens C e C#, além de um pouco mais sobre Java, JavaScript, HTML, CSS e banco de dados SQL/NoSQL. <p>
+<p> Como um iniciante na área, gosto muito de descobrir coisas novas ou formas diferentes de aplicar a programação, sejam elas novas linguagens, frameworks, IDEs ou editores de texto. Meu principal interesse na área é atuar com <b>desenvolvimento de aplicativos para smartphones</b>, tanto Android, quanto iOS, e pretendo direcionar meus estudos para isso. Como um complemento, estou cursando técnico em <b> Informática para Internet na ETEC SEBRAE </b>, onde aprenderei as linguagens C, C# e PHP, além de um pouco mais sobre Java, JavaScript, HTML, CSS e banco de dados SQL/NoSQL. <p>
  
 <br>
 
