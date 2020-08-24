@@ -17,7 +17,7 @@
 - :cd: Aprendi inglês lendo e reescrevendo os encartes de CD e decorando as falas dos shows da Madonna
 - :necktie: Antes da transição para a área de tecnologia, trabalhei com turismo/aviação e em projetos socioculturais
 - :books: Estou cursando bacharelado em Publicidade e Propaganda, mas já fiz três anos de Licenciatura em Pedagogia
-
+- :soccer: BÔNUS: Müller não é um sobrenome, é nome composto (tipo João Vitor) e é por conta do jogador da Alemanha hahaha
 <h3>🛠 Estou aprendendo: </h3>
 
 - :clipboard: Metodologias ágeis SCRUM/Kanban
