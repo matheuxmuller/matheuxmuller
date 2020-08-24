@@ -23,7 +23,7 @@
 - :clipboard: Metodologias ágeis SCRUM/Kanban
 - :mag_right: Versionamento de código aqui pelo Git
 - :floppy_disk: Banco de dados relacionais com MySQL
-- :computer: utilizando o framework Spring para a na criação de APIs com Hibernate JPA, build em Apache Maven e protocolo básico de segurança no armazenamento e encriptação dos dados de acesso dos usuários
+- :computer: Back-end com Java 8, utilizando o framework Spring para a na criação de APIs com Hibernate JPA, build em Apache Maven e protocolo básico de segurança no armazenamento e encriptação dos dados de acesso dos usuários
 - :globe_with_meridians: Front-end com HTML5, CSS3 e Javascript / TypeScrypt: Angular, Bootstrap, DOM, seletores, edição, objetos, variáveis, escopos, gerenciamento estendido por storage, forms, embeds e requisições por AJAX
 - :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
 - :whale: Noções de DevOps no processo de deploy em containers com Docker
