@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
 
-<p> Me chamo Matheus, tenho 22 anos e sendo uma pessoa comunicativa, curiosa e multidisciplinar como sou, encontrei na tecnologia a minha forma de mudar o mundo, em busca de pautar acessibilidade e diversidade em linhas de código. </p>
+<p> Me chamo Matheus, tenho 22 anos e sendo comunicativo, curioso e multidisciplinar, encontrei na tecnologia a minha forma de mudar o mundo, em busca de promover acessibilidade e diversidade em linhas de código. </p>
 <br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
@@ -17,7 +17,7 @@
 - :cd: Aprendi inglês lendo e reescrevendo os encartes de CD e decorando as falas dos shows da Madonna
 - :necktie: Antes da transição para a área de tecnologia, trabalhei com turismo/aviação e em projetos socioculturais
 - :books: Estou cursando bacharelado em Publicidade e Propaganda, mas já fiz três anos de Licenciatura em Pedagogia
-- :soccer: BÔNUS: Müller não é um sobrenome, é nome composto (tipo João Vitor) e é por conta do jogador da Alemanha hahaha
+- :soccer: BÔNUS: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha hahaha
 <h3>🛠 Estou aprendendo: </h3>
 
 - :clipboard: Metodologias ágeis SCRUM/Kanban
