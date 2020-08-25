@@ -11,7 +11,6 @@
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
 
-- :dart: Sou apaixonado por UX (research & design) e cultura pop
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://brazil.generation.org/)
 - :cd: Aprendi inglês lendo e reescrevendo os encartes de CD e decorando as falas dos shows da Madonna
