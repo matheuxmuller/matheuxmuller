@@ -1,4 +1,4 @@
-<h2> Olarrr! Eu sou o Matheux :yellow_heart: </h2>
+<h2> Olarrr! Boas vindas :yellow_heart: </h2>
 
 <a href="https://www.linkedin.com/in/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 <a href="https://twitter.com/matheuxmuller" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"> </a>
@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
 
-<p> Comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de pautar diversidade e acessibilidade tanto em linhas de código, quanto projetando melhores experiências e interfaces para todes! </p>
+<p> Me chamo Matheus, tenho 22 anos e comunicativo, curioso e multidisciplinar que sou, encontrei na tecnologia a minha forma de mudar o mundo, em busca de pautar acessibilidade e diversidade em linhas de código. </p>
 <br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
