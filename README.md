@@ -22,8 +22,8 @@
 - :clipboard: Metodologias ágeis SCRUM/Kanban
 - :mag_right: Versionamento de código aqui pelo Git
 - :floppy_disk: Banco de dados relacionais com MySQL
-- :computer: Back-end com Java 8, utilizando Spring Boot para a criação de RESTful APIs com protocolo básico de segurança no armazenamento e encriptação dos dados de acesso dos usuários
-- :globe_with_meridians: Front-end com HTML5, CSS3 e Javascript / TypeScript em Angular e Bootstrap
+- :computer: Back-end com Java 8 utilizando o framework Spring Boot 
+- :globe_with_meridians: Front-end com HTML5, CSS3 e Javascript em Angular e Bootstrap
 - :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
 - :whale: Noções de DevOps no processo de deploy em containers com Docker
 
