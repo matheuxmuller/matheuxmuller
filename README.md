@@ -15,7 +15,7 @@
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://brazil.generation.org/)
 - :cd: Aprendi inglês lendo e reescrevendo os encartes de CD e decorando as falas dos shows da Madonna
 - :books: Antes de cogitar uma transição para a área de tecnologia, cursei três anos de Licenciatura em Pedagogia 
-- :soccer: BÔNUS: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha
+- :soccer: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha
 
 <h3>🛠 Estou aprendendo: </h3>
 
