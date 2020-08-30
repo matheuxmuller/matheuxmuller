@@ -14,9 +14,8 @@
 - :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://brazil.generation.org/)
 - :cd: Aprendi inglês lendo e reescrevendo os encartes de CD e decorando as falas dos shows da Madonna
-- :necktie: Antes da transição para a área de tecnologia, trabalhei com turismo/aviação e em projetos socioculturais
-- :books: Estou cursando bacharelado em Publicidade e Propaganda, mas já fiz três anos de Licenciatura em Pedagogia
-- :soccer: BÔNUS: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha hahaha
+- :soccer: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha
+- :books: Antes da transição para a área de tecnologia, trabalhei com turismo/aviação e em projetos socioculturais, além de ter cursado três anos de Licenciatura em Pedagogia 
 <h3>🛠 Estou aprendendo: </h3>
 
 - :clipboard: Metodologias ágeis SCRUM/Kanban
