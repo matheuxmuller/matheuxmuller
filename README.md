@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
 
-<p> Me chamo Matheus, tenho 22 anos e sendo multidisciplinar, comunicativo e curioso, encontrei na tecnologia a minha forma de mudar o mundo, em busca de promover acessibilidade e diversidade em linhas de código. </p>
+<p> Me chamo Matheus, tenho 22 anos e sendo multidisciplinar, comunicativo e curioso, encontrei na tecnologia a minha forma de mudar o mundo e estou em busca de promover diversidade nos espaços e acessibilidade em linhas de código. </p>
 <br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
