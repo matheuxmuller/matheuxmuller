@@ -11,7 +11,7 @@
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
 
-- :rainbow: Cresci num lar beeeem colorido, como L(G)BTQIA+ e filho de duas mães
+- :rainbow: Cresci num lar beeeem colorido, como LGBT(Q)IA(P)+ e filho de duas mães
 - :seedling: Estou me tornando Desenvolvedor Web Fullstack através do bootcamp da [Generation Brasil](https://brazil.generation.org/)
 - :cd: Aprendi inglês lendo e reescrevendo os encartes de CD e decorando as falas dos shows da Madonna
 - :books: Antes de cogitar uma transição para a área de tecnologia, cursei três anos de Licenciatura em Pedagogia 
