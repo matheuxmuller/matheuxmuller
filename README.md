@@ -6,26 +6,26 @@
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
 
-<p> Me chamo Matheus, tenho 22 anos e sendo multidisciplinar, comunicativo e curioso, encontrei na tecnologia a minha forma de mudar o mundo, em busca de promover diversidade nos espaços e acessibilidade em linhas de código. </p>
+<p> Me chamo Matheus, tenho 22 anos e sendo multidisciplinar, comunicativo e curioso, encontrei a minha forma de contribuir para o mundo através da tecnologia e suas diversas possibilidades. </p>
 <br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
 
-- :rainbow: Cresci num lar beeeem colorido, como LGBT(Q)IA(P)+ e filho de duas mães
+- :rainbow: Cresci num lar beeeem colorido, sendo gay e filho de duas mães
 - :seedling: Me tornei Desenvolvedor Web Fullstack Jr. através do bootcamp da [Generation Brasil](https://brazil.generation.org/)
-- :cd: Aprendi inglês lendo e reescrevendo os encartes de CD e decorando as falas dos shows da Madonna
+- :cd: Aprendi inglês lendo e reescrevendo os encartes de CD da Madonna (além de decorar as falas dos shows hahaha)
 - :books: Antes de cogitar uma transição para a área de tecnologia, cursei três anos de Licenciatura em Pedagogia 
 - :soccer: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha
 
 <h3>🛠 Estou aprendendo: </h3>
 
-- :clipboard: Metodologias ágeis SCRUM/Kanban
-- :mag_right: Versionamento de código aqui pelo Git
-- :floppy_disk: Banco de dados relacionais com MySQL
-- :computer: Back-end com Java 8 utilizando o framework Spring Boot 
-- :globe_with_meridians: Front-end com HTML5, CSS3 e Javascript em Angular e Bootstrap
-- :art: Prototipagem com Figma (e um certo apoio do Corel DRAW hahaha)
-- :whale: Noções de DevOps no processo de deploy em containers com Docker
+- :clipboard: Metodologias ágeis SCRUM/Kanban;
+- :mag_right: Versionamento de código pelo Git;
+- :computer: Back-end com Java no framework Spring Boot;
+- :floppy_disk: Banco de dados relacionais com MySQL/DBeaver;
+- :globe_with_meridians: Front-end com HTML5, CSS3 e Javascript em Angular e Bootstrap;
+- :art: Prototipagem com Figma (e um certo apoio do Corel DRAW/GIMP hahaha);
+- :whale: Deploy em containers com Docker / Kubernetes.
 
 <br>
 
