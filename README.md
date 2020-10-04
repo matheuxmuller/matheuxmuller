@@ -23,9 +23,10 @@
 - :mag_right: Versionamento de código pelo Git;
 - :computer: Back-end com Java no framework Spring Boot;
 - :floppy_disk: Banco de dados relacionais com MySQL/DBeaver;
+- :whale: Deploy em containers com Docker / Kubernetes;
 - :globe_with_meridians: Front-end com HTML5, CSS3 e Javascript em Angular e Bootstrap;
-- :art: Prototipagem com Figma (e um certo apoio do Corel DRAW/GIMP hahaha);
-- :whale: Deploy em containers com Docker / Kubernetes.
+- :art: Prototipagem com Figma (e um certo apoio do Corel DRAW/GIMP).
+
 
 <br>
 
