@@ -19,7 +19,7 @@
 
 <h3>🛠 Estou aprendendo: </h3>
 
-- :clipboard: Metodologias ágeis SCRUM/Kanban;
+- :clipboard: SCRUM/Kanban;
 - :mag_right: Versionamento de código pelo Git;
 - :computer: Back-end com Java no framework Spring Boot;
 - :floppy_disk: Banco de dados relacionais com MySQL/DBeaver;
