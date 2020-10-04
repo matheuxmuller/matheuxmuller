@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
 
-<p> Me chamo Matheus, tenho 22 anos e sendo multidisciplinar, comunicativo e curioso, encontrei a minha forma de contribuir para o mundo através da tecnologia e suas diversas possibilidades. </p>
+<p> Me chamo Matheus, tenho 22 anos e sendo multidisciplinar, comunicativo e curioso, encontrei a minha forma de contribuir para o mundo através da tecnologia e suas diversas possibilidades. Atualmente, sou aluno de Bacharelado em Publicidade e Propaganda e Técnico em Informática para Internet e pretendo me especializar em webdesign (UX / UI / front-end) e inteligência de dados em negócios (mídia / comportamento do consumidor). </p>
 <br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
