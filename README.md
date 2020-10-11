@@ -11,7 +11,7 @@
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
 
-- :rainbow: Cresci num lar beeeem colorido, sendo uma pessoa não-binária e filha de duas mães
+- :rainbow: Cresci num lar beeeem colorido, sendo LGBTQIAP+ e filho de duas mães
 - :seedling: Me tornei Desenvolvedor Web Fullstack Jr. através do bootcamp da [Generation Brasil](https://brazil.generation.org/)
 - :books: Antes de cogitar uma transição para a área de tecnologia, cursei três anos de Licenciatura em Pedagogia 
 - :soccer: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha
