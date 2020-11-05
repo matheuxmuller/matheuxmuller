@@ -7,7 +7,6 @@
 
 
 <p> Me chamo Matheus, tenho 23 anos e desde criança, sempre gostei de escrever, planejar e ajudar a construir coisas novas e, por conta disso, decidi me aventurar neste universo da área de tecnologia! </p>
-<br>
 
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
 
