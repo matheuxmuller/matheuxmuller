@@ -21,7 +21,7 @@
 - :computer: Back-end com Java no framework Spring Boot;
 - :globe_with_meridians: Front-end com HTML5, CSS3 e Javascript em Angular;
 - :floppy_disk: Banco de dados relacionais com MySQL;
-- :whale: Deploy em containers com Docker e Netlify;
+- :whale: Deploy com Docker, Heroku e Netlify;
 
 
 <br>
