@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
-Me chamo Matheus, tenho 23 anos e desde criança, sempre gostei de escrever, planejar e ajudar a construir coisas novas. Um belo dia eu resolvi mudar e decidi me aventurar neste universo de tecnologia. Me tornei desenvolvedor através do bootcamp da [Generation Brasil](https://brazil.generation.org/), estou atualmente como Engenheiro de Software Jr. no Itaú e curso Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, onde pretendo me especializar em Agile & DevOps!
+Me chamo Matheus, tenho 23 anos e desde criança sempre gostei de escrever, planejar e ajudar a construir coisas novas. Um belo dia eu resolvi mudar e decidi me aventurar neste universo de tecnologia. Me tornei desenvolvedor através do bootcamp da [Generation Brasil](https://brazil.generation.org/), estou atualmente como QA de Acessibilidade Digital no Itaú e curso Análise e Desenvolvimento de Sistemas na Impacta, onde pretendo me especializar em Engenharia de Software!
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
  
 - :rainbow: Sou gay e filho de duas mães, vivo debaixo desse arco-íris desde que nasci
@@ -15,9 +15,9 @@ Me chamo Matheus, tenho 23 anos e desde criança, sempre gostei de escrever, pla
 
 <h3>🛠 Stacks / Interesses: </h3>
 
-- :globe_with_meridians: Back-end: Java (Spring Boot), Kotlin (Micronaut), Banco de dados relacionais (MySQL), Kafka;
-- :floppy_disk:  DevOps: Docker, Jenkins, Cloud AWS, Kubernetes, Ansible, Terraform, Vagrant.
-
+- :globe_with_meridians:  Gosto de desenvolver em Java com Spring Boot
+- :iphone:  Estou aprendendo a desenvolver pra iOS com Swift
+- :recycle:  Busco entender mais sobre Docker e AWS Cloud.
 
 <br>
 
