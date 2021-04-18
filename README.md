@@ -5,19 +5,19 @@
 <a href="https://www.instagram.com/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
-Me chamo Matheus, tenho 23 anos e desde criança sempre gostei de escrever, planejar e ajudar a construir coisas novas. Um belo dia eu resolvi mudar e decidi me aventurar neste universo de tecnologia. Me tornei desenvolvedor através do bootcamp da [Generation Brasil](https://brazil.generation.org/), estou atualmente como QA de Acessibilidade Digital no Itaú e curso Análise e Desenvolvimento de Sistemas na Impacta, onde pretendo me especializar em Engenharia de Software!
+Me chamo Matheus, tenho 23 anos e desde criança sempre gostei de escrever, planejar e ajudar a construir coisas novas. Um belo dia eu resolvi mudar e decidi me aventurar neste universo de tecnologia. Me tornei desenvolvedor através do bootcamp da [Generation Brasil](https://brazil.generation.org/), estou atualmente como QA de Acessibilidade Digital no Banco Itaú!
 <h3>👨🏻‍💻 Curiosidades sobre mim: </h3>
  
 - :rainbow: Sou gay e filho de duas mães, vivo debaixo desse arco-íris desde que nasci
-- :books: Antes de cogitar uma transição para a área de tecnologia, cursei três anos de Pedagogia 
+- :books: Durante a transição para a área de tecnologia, estou me formando na Licenciatura em Pedagogia
 - :soccer: Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha
 - :cd: Aprendi inglês lendo e reescrevendo os encartes de CD da Madonna (além de decorar as falas dos shows hahaha)
 
-<h3>🛠 Stacks / Interesses: </h3>
+<h3>🛠  Conhecimentos: </h3>
 
-- :globe_with_meridians:  Gosto de desenvolver em Java com Spring Boot
-- :iphone:  Estou aprendendo a desenvolver pra iOS com Swift
-- :recycle:  Busco entender mais sobre Docker e AWS Cloud.
+- :globe_with_meridians:  Desenvolvimento back-end com Java (Spring Boot, Junit, Cucumber & Selenium)
+- :computer: Desenvolvimento front-end com Javascript (Angular e React)
+- :iphone:  Desenvolvimento mobile nativo pra iOS com Swift
 
 <br>
 
