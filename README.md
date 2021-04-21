@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/matheuxmuller/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
 <a href="https://open.spotify.com/user/1g0xg7pfxk1kaspgr1nwbknxr?si=W3W9xfBlRZiC5nq0Tivj6w" target="_blank"><img src="https://img.shields.io/badge/-Spotify-00FF7F?style=flat-square&labelColor=00FF7F&logo=spotify&logoColor=white" alt="Spotify"> </a>
 
-Me chamo Matheus, tenho 23 anos e desde criança sempre gostei de escrever, planejar e ajudar a construir coisas novas. Um belo dia eu resolvi mudar, [assim como naquela música da rainha Rita Lee](https://www.youtube.com/watch?v=JJhKbpjfXnQ), e acabei me tornando desenvolvedor através do bootcamp da [Generation Brasil](https://brazil.generation.org/)!
+Desde criança sempre gostei de escrever, planejar e ajudar a construir coisas novas. Um belo dia eu resolvi mudar, [assim como naquela música da rainha Rita Lee](https://www.youtube.com/watch?v=JJhKbpjfXnQ), e acabei me tornando desenvolvedor através do bootcamp da [Generation Brasil](https://brazil.generation.org/)!
 
 <h3>👨🏻‍💻 &nbsp; Curiosidades sobre mim: </h3>
  
