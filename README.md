@@ -11,11 +11,11 @@ Desde criança sempre gostei de escrever, planejar e ajudar a construir coisas n
  
 - :bank: &nbsp; Estou atualmente como QA de Acessibilidade Digital no Banco Itaú!
 - :rainbow: &nbsp; Sou gay e filho de duas mães, vivo debaixo desse arco-íris desde que nasci
-- :books: &nbsp; Durante a transição para a área de tecnologia, estou me formando na Licenciatura em Pedagogia
+- :books: &nbsp; Estou me formando em Pedagogia durante essa transição de carreira para a área de tecnologia
 - :soccer: &nbsp; Müller não é meu sobrenome, é um nome composto (tipo João Vitor) e é por conta do jogador da Alemanha
 - :cd: &nbsp; Aprendi inglês lendo e reescrevendo os encartes de CD da Madonna (além de decorar as falas dos shows hahaha)
 
-<h3>🛠  &nbsp; Habilidades que estou aprendendo constantemente: </h3>
+<h3>🛠  &nbsp; Habilidades que estou constantemente aprendendo: </h3>
 
 - :computer: &nbsp; Desenvolvimento front-end com Javascript (Angular & React)
 - :mag:  &nbsp; Automação de testes com Java (Cucumber & Selenium)
