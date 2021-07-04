@@ -19,7 +19,7 @@ Desde criança sempre gostei de escrever, planejar e ajudar a construir coisas n
 
 - :globe_with_meridians:  &nbsp; Desenvolvimento back-end e automação de testes com Java (Spring Boot & Selenium)
 - :computer: &nbsp; Desenvolvimento front-end com Javascript (Angular & React)
-- - :iphone:  &nbsp; Desenvolvimento mobile nativo pra iOS com Swift
+- :iphone:  &nbsp; Desenvolvimento mobile nativo pra iOS com Swift
 
 <br>
 
